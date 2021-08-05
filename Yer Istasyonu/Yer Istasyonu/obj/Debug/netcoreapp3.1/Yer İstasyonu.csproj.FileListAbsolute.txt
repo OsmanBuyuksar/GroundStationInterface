@@ -1,0 +1,16 @@
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\netcoreapp3.1\Yer İstasyonu.exe
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\netcoreapp3.1\Yer İstasyonu.deps.json
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\netcoreapp3.1\Yer İstasyonu.runtimeconfig.json
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\netcoreapp3.1\Yer İstasyonu.runtimeconfig.dev.json
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\netcoreapp3.1\Yer İstasyonu.dll
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\netcoreapp3.1\Yer İstasyonu.pdb
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.csprojAssemblyReference.cache
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer_İstasyonu.Form1.resources
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer_İstasyonu.Properties.Resources.resources
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.csproj.GenerateResource.cache
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.AssemblyInfo.cs
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.dll
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.pdb
+C:\Users\osman\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\netcoreapp3.1\Yer İstasyonu.genruntimeconfig.cache
